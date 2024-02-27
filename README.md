@@ -8,4 +8,4 @@ This project serves as a demonstration of my HTML and CSS skills, specifically t
 
 Simply open the `index.html` file in your web browser to view the project. Navigate through the pages to explore different aspects of my HTML and CSS skills.
 
-![Preview](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Preview](https://github.com/YoussofH/portfolio_project/blob/main/preview.png)
